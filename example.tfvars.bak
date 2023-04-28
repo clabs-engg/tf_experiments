@@ -1,0 +1,6 @@
+vpc_id        = ""
+subnet_id     = ""
+instance_type = ""
+ssh_key       = ""
+aws_region    = ""
+ami_id        = ""
